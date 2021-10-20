@@ -1,5 +1,7 @@
 import java.util.*;
 public class SciCalculator {
+    //test test test
+    //october 20th
     public static void main(String[] args){
         Scanner scan = new Scanner(System.in);
 // establishing most variables here just to be a little organized
